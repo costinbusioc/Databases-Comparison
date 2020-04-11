@@ -1,0 +1,18 @@
+Buzau
+Satu Mare
+Focsani
+Bacau
+Botosani
+Timisoara
+Constanta
+Craiova
+Arad
+Ramnicu Vâlcea
+Brasov
+Oradea
+Ploiesti
+Iasi
+Drobeta-Turnu Severin
+Sibiu
+Bucuresti
+Cluj-Napoca
