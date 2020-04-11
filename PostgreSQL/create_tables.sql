@@ -20,7 +20,7 @@ CREATE TABLE "thesis" (
   "thesis_title" varchar
 );
 
-ALTER TABLE "thesis" ADD FOREIGN KEY ("student_id") REFERENCES "students" ("id");
+ALTER TABLE "thesis" ADD FOREIGN KEY ("student_id") REFERENCES "students" ("id") ON DELETE CASCADE;
 
-ALTER TABLE "thesis" ADD FOREIGN KEY ("professor_id") REFERENCES "professors" ("id");
+ALTER TABLE "thesis" ADD FOREIGN KEY ("professor_id") REFERENCES "professors" ("id") ON DELETE CASCADE;
 
