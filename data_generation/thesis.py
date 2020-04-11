@@ -14,7 +14,7 @@ thesis_title = []
 
 professors = pandas.read_csv('professors.csv')
 
-for i in range(1, 10001):
+for i in range(1, 10000):
 	ids.append(i)
 	student_ids.append(i)
 	
