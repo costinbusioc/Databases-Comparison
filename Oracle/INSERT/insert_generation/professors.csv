@@ -1,0 +1,201 @@
+,Id,Name,Specialization,Office
+0,1,Ira Macdonald,Computer Systems,PR301
+1,2,Karly Reynolds,Algorithms,PR504
+2,3,Jakayla Pennington,Computer Systems,PR506
+3,4,Nathaniel Bullock,Computer Systems,PR104
+4,5,Hudson Hickman,Algorithms,PR301
+5,6,Maribel Carpenter,Algorithms,PR202
+6,7,Natalie Cantrell,Distributed Systems,PR206
+7,8,Kyla Pollard,Algorithms,PR601
+8,9,Sophie Gamble,Computer Architecture,PR101
+9,10,Damaris Holmes,Computer Architecture,PR303
+10,11,Craig Atkins,Distributed Systems,PR505
+11,12,Karson Krause,Computer Graphics,PR208
+12,13,Armani Thomas,Computer Systems,PR202
+13,14,Judah Huff,Computer Systems,PR601
+14,15,Jaylen Garcia,Computer Graphics,PR204
+15,16,Lana Hampton,Distributed Systems,PR502
+16,17,Anahi Elliott,Distributed Systems,PR605
+17,18,Lamar Hester,Computer Systems,PR508
+18,19,Muhammad Lopez,Computer Graphics,PR301
+19,20,Issac Mayo,Computer Graphics,PR603
+20,21,Elsie Charles,Semantics,PR106
+21,22,Daphne Zavala,Semantics,PR604
+22,23,Jaylynn Rowland,Computer Systems,PR407
+23,24,Kane Marks,Distributed Systems,PR503
+24,25,Alisa Brock,Semantics,PR106
+25,26,Jacqueline Finley,Computer Architecture,PR104
+26,27,Dashawn Dudley,Robotics,PR404
+27,28,Blaine Simon,Computer Graphics,PR406
+28,29,Marisol Ayala,Robotics,PR503
+29,30,Bryce Whitaker,Computer Graphics,PR502
+30,31,Oliver Hobbs,Computer Systems,PR607
+31,32,Elena Melendez,Computer Architecture,PR205
+32,33,Kenneth Livingston,Computer Systems,PR308
+33,34,Gerald Blanchard,Algorithms,PR406
+34,35,Ainsley Fitzpatrick,Computer Architecture,PR304
+35,36,Araceli Howard,Robotics,PR302
+36,37,Harrison Duke,Computer Architecture,PR605
+37,38,Chelsea Arroyo,Semantics,PR406
+38,39,Elliott Beard,Computer Systems,PR203
+39,40,Elisha Drake,Semantics,PR306
+40,41,Bailey Macias,Computer Graphics,PR404
+41,42,Kaitlyn Reid,Computer Architecture,PR303
+42,43,Maleah Barry,Computer Systems,PR501
+43,44,Misael Rivas,Computer Graphics,PR405
+44,45,Reagan Hays,Computer Systems,PR207
+45,46,Asher Brewer,Computer Architecture,PR201
+46,47,Kaden Lloyd,Computer Systems,PR403
+47,48,Anastasia Fowler,Computer Graphics,PR306
+48,49,Devon Price,Computer Graphics,PR601
+49,50,Tommy Rosario,Semantics,PR305
+50,51,Mckinley Pena,Computer Graphics,PR107
+51,52,Taylor Oneal,Semantics,PR307
+52,53,Sydney Donaldson,Distributed Systems,PR603
+53,54,Paxton Odonnell,Robotics,PR202
+54,55,Leia Alexander,Semantics,PR104
+55,56,Elliott Murillo,Robotics,PR606
+56,57,Asa Chapman,Distributed Systems,PR108
+57,58,Jordan Jensen,Distributed Systems,PR507
+58,59,Winston Andrews,Algorithms,PR208
+59,60,June Graham,Robotics,PR503
+60,61,Allison Daniels,Algorithms,PR207
+61,62,Cali Rogers,Robotics,PR307
+62,63,Zariah Turner,Computer Graphics,PR201
+63,64,Sullivan Edwards,Robotics,PR103
+64,65,Heidy Preston,Computer Architecture,PR502
+65,66,Gianni Walters,Robotics,PR102
+66,67,Delaney Little,Semantics,PR305
+67,68,Dixie Hooper,Semantics,PR604
+68,69,Madalyn Haas,Computer Systems,PR601
+69,70,Gisselle Shaffer,Distributed Systems,PR604
+70,71,Cherish Brown,Algorithms,PR202
+71,72,Adyson Zamora,Computer Graphics,PR105
+72,73,Johnathan Delacruz,Algorithms,PR606
+73,74,Nico Humphrey,Algorithms,PR307
+74,75,Tamara Diaz,Computer Systems,PR501
+75,76,Mattie Decker,Algorithms,PR407
+76,77,Todd Cisneros,Robotics,PR505
+77,78,Erik Page,Robotics,PR407
+78,79,Bradley Bender,Algorithms,PR101
+79,80,Jesus Quinn,Algorithms,PR203
+80,81,Maddox Cummings,Distributed Systems,PR406
+81,82,Mercedes Prince,Distributed Systems,PR401
+82,83,Dalton Wilson,Computer Architecture,PR405
+83,84,Lyric Bell,Computer Architecture,PR401
+84,85,Dexter Haley,Robotics,PR107
+85,86,Johnny Odom,Computer Architecture,PR603
+86,87,Jovanni Hubbard,Semantics,PR302
+87,88,Josephine Andrews,Semantics,PR308
+88,89,Brisa Farley,Computer Graphics,PR402
+89,90,Sloane Valentine,Computer Systems,PR108
+90,91,Deegan Barber,Semantics,PR507
+91,92,Mario Landry,Robotics,PR606
+92,93,Libby Duke,Robotics,PR105
+93,94,Marilyn Hammond,Semantics,PR402
+94,95,Taryn Fields,Algorithms,PR605
+95,96,Armando Espinoza,Computer Systems,PR405
+96,97,Kenneth Buchanan,Computer Graphics,PR502
+97,98,Jaidyn Houston,Semantics,PR405
+98,99,Kenyon Frank,Robotics,PR605
+99,100,Joey Crosby,Computer Architecture,PR107
+100,101,Nathalie Underwood,Semantics,PR202
+101,102,Chana Dean,Computer Architecture,PR603
+102,103,Finn Watkins,Semantics,PR601
+103,104,Sullivan Mccoy,Semantics,PR406
+104,105,Howard Jacobson,Distributed Systems,PR606
+105,106,Marquise Delgado,Computer Graphics,PR108
+106,107,Desirae Benson,Computer Architecture,PR303
+107,108,Monique Schmitt,Distributed Systems,PR408
+108,109,Rylee Haas,Algorithms,PR502
+109,110,Laney Morse,Algorithms,PR107
+110,111,Draven Hardy,Computer Architecture,PR404
+111,112,Aliya Wells,Robotics,PR205
+112,113,Alma Estes,Computer Systems,PR308
+113,114,Kelly Golden,Distributed Systems,PR303
+114,115,Adelaide Gilbert,Computer Graphics,PR508
+115,116,Simon Mcgee,Semantics,PR101
+116,117,Michelle Santiago,Distributed Systems,PR206
+117,118,Janet Park,Computer Architecture,PR401
+118,119,Bridget Mcmillan,Semantics,PR305
+119,120,Jocelyn Rowland,Algorithms,PR306
+120,121,Chance Cooper,Algorithms,PR404
+121,122,Aliana Harvey,Algorithms,PR306
+122,123,Kiara Vang,Semantics,PR106
+123,124,Valerie Hansen,Robotics,PR403
+124,125,Karlee Rowe,Computer Architecture,PR503
+125,126,Dayana Cuevas,Computer Architecture,PR208
+126,127,Kamari Maddox,Computer Systems,PR407
+127,128,Angeline Macias,Semantics,PR506
+128,129,Kenley Mason,Distributed Systems,PR608
+129,130,Alonso Winters,Computer Systems,PR401
+130,131,Brooklynn Hancock,Robotics,PR206
+131,132,Aaron Escobar,Computer Systems,PR601
+132,133,Mason Mcclain,Semantics,PR102
+133,134,Miracle Choi,Computer Architecture,PR607
+134,135,Jamal Shepard,Computer Systems,PR204
+135,136,Raina Dominguez,Computer Architecture,PR203
+136,137,Catalina Drake,Robotics,PR102
+137,138,Selena Mosley,Algorithms,PR401
+138,139,Trace Clements,Semantics,PR504
+139,140,Antonio Clements,Semantics,PR508
+140,141,Elisabeth Marshall,Computer Architecture,PR107
+141,142,Jeffery Rollins,Computer Systems,PR301
+142,143,Saul Conley,Computer Architecture,PR608
+143,144,Simon Klein,Computer Graphics,PR205
+144,145,Johnathon Bridges,Algorithms,PR306
+145,146,Kaylynn Myers,Computer Systems,PR404
+146,147,Tamia Rowe,Algorithms,PR102
+147,148,Carissa Winters,Algorithms,PR107
+148,149,Jessie Arroyo,Robotics,PR303
+149,150,Colten Young,Semantics,PR101
+150,151,Jaxon Farrell,Semantics,PR402
+151,152,Carissa Barajas,Semantics,PR505
+152,153,Brayden Morse,Algorithms,PR506
+153,154,Areli Wilcox,Semantics,PR604
+154,155,Lewis Shaffer,Semantics,PR204
+155,156,Mya Acevedo,Semantics,PR202
+156,157,Gwendolyn Mathis,Semantics,PR401
+157,158,Miles Allison,Computer Graphics,PR106
+158,159,Khalil Mcgee,Computer Architecture,PR505
+159,160,Aliya Hanson,Computer Systems,PR608
+160,161,Anabelle Villarreal,Computer Graphics,PR504
+161,162,Corinne Lutz,Computer Systems,PR407
+162,163,Shawn Ortega,Distributed Systems,PR205
+163,164,Aisha Owen,Algorithms,PR205
+164,165,Ulises Cooper,Distributed Systems,PR101
+165,166,Penelope Monroe,Computer Architecture,PR101
+166,167,Camille Wong,Robotics,PR401
+167,168,Keenan Richmond,Computer Systems,PR307
+168,169,Gregory Landry,Robotics,PR605
+169,170,Fiona Hardin,Computer Architecture,PR603
+170,171,Soren Carson,Robotics,PR206
+171,172,Sonia Tate,Algorithms,PR503
+172,173,Jakayla Russo,Distributed Systems,PR207
+173,174,Imani Marsh,Robotics,PR104
+174,175,Dalton Rocha,Algorithms,PR501
+175,176,Amirah Whitaker,Computer Graphics,PR204
+176,177,Scott Tanner,Computer Systems,PR602
+177,178,Kaleigh Duarte,Robotics,PR507
+178,179,Britney Mcmillan,Semantics,PR406
+179,180,Itzel Pace,Robotics,PR601
+180,181,Nolan Maynard,Computer Architecture,PR507
+181,182,Lily Charles,Semantics,PR407
+182,183,Yesenia Hanna,Algorithms,PR402
+183,184,Heath Vang,Distributed Systems,PR408
+184,185,Gage Whitehead,Computer Graphics,PR508
+185,186,Darien Schaefer,Computer Systems,PR303
+186,187,Cullen Benitez,Robotics,PR501
+187,188,Aubree Gibbs,Computer Architecture,PR204
+188,189,Luke Cooley,Robotics,PR401
+189,190,Leonel Mcclure,Semantics,PR501
+190,191,Yahir Cantrell,Computer Graphics,PR208
+191,192,Brayden Suarez,Computer Architecture,PR105
+192,193,Francis Hubbard,Computer Systems,PR103
+193,194,Walker Ortiz,Distributed Systems,PR606
+194,195,Allison Munoz,Computer Architecture,PR303
+195,196,Rey Rice,Robotics,PR401
+196,197,Zane Hahn,Algorithms,PR502
+197,198,Melissa Jacobson,Semantics,PR608
+198,199,Lucas Cordova,Computer Graphics,PR207
+199,200,Maliyah Pollard,Robotics,PR408
